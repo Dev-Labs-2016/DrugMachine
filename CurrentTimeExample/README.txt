@@ -1,0 +1,1 @@
+This example get the current time from linux on arduino YUN

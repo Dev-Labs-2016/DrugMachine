@@ -1,0 +1,1 @@
+This example runs a servo motor every 10 minutes.

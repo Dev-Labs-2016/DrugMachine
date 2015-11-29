@@ -1,0 +1,1 @@
+This example initiate a server on arduino YUN and accept json data then parse it.

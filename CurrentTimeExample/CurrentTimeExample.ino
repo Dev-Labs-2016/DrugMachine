@@ -6,6 +6,7 @@ void setup() {
   Bridge.begin();        // initialize Bridge
   Serial.begin(9600);    // initialize serial  
 
+  Serial.println("Time Check");  // Title of sketch
   while(!Serial);               // wait for Serial Monitor to open
 
   Serial.println("Time Check");  // Title of sketch

@@ -22,7 +22,7 @@ void loop() {
 }
 
 void process(YunClient client) {
-  if (client.read() == '#') {
+  if (client.read()) {
     Serial.println(client.readString()); 
   }
 }
